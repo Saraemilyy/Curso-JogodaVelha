@@ -37,8 +37,9 @@ $ cd Curso-JogodaVelha
 
 ## Layout Do Projeto
 
-<img src="./src/readme/">
-<img src="./src/readme/">
-<img src="./src/readme/">
+<img src="./src/assets/jogo-da-velha.png"><br>
+<img src="./src/assets/empate.png"><br>
+<img src="./src/assets/jogador-o.png">
+<img src="./src/assets/jogador-x.png">
 
 >&copy; Sara Castro 2023 - Developer Full Stack
